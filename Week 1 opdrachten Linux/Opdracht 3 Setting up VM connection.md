@@ -1,6 +1,5 @@
 # [Onderwerp]
-[Opzetten VM verbinding door een SSH]
-
+Opzetten VM verbinding door een SSH
 ## Key-terms
 * __VM:__  
 VM een Virtual Machine (VM) is een besturingssysteem (operatingsystem, OS) of applicatie-omgeving die geïnstalleerd is op software die specifieke hardware imiteert
