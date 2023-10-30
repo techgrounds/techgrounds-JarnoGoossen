@@ -1,4 +1,4 @@
-# [Onderwerp]
+# [Binary&Hex]
 [Geef een korte beschrijving van het onderwerp]
 
 ## Key-terms
@@ -6,7 +6,7 @@
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+[Mathisfun](https://www.mathsisfun.com/numbers/bases.html)
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
