@@ -17,3 +17,6 @@ SSH staat voor Secure Shell, ook wel “shell” genoemd, en is een hulpmiddel o
 
 ### Resultaat
 ![Inloggen](../00_includes/inloggen.png) 
+
+Gebruik gemaakt van:
+ssh -i $path "C:\Users\water\.ssh\jarno.pem" -p 52209 jarno@3.121.40.175
