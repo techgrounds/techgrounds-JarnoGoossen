@@ -21,7 +21,7 @@ WYSIWYG vs WYSIWYM]
     
 
 Dit is een normale tekst  
-**Dit is een vetgedrukte tekst**  
+**to boldly go where no one has gone before**  
 __Dit is ook een vetgedrukte tekst__  
 
 Dit is een link naar Google [Google](https://www.google.nl)
