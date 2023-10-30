@@ -9,9 +9,9 @@ SSH staat voor Secure Shell, ook wel “shell” genoemd, en is een hulpmiddel o
 
 ## Opdracht
 ### Gebruikte bronnen
-1.https://www.hypernode.com/nl/blog/ssh-complete-uitleg/
-2.[https://linuxcommand.org/lc3_man_pages/ssh1.html]
-3.[https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/]
+1. https://www.hypernode.com/nl/blog/ssh-complete-uitleg/
+2. https://linuxcommand.org/lc3_man_pages/ssh1.html
+3. https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/
 
 ### Ervaren problemen
 [Kreeg geen toegang tot de pem key door wat te stoeien  met instellingen is het gelukt om verbinding te maken met de VM]
