@@ -43,4 +43,4 @@ Hosts/Net: 6
 Moest veel internetbronnenraadplegen om het kwartje een beetje te laten vallen
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+![schema](../00_includes/netwerkschema.png) 
