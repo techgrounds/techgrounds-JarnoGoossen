@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-11-01T14:28:13.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="a-dO1lou7kdQlVE8Q-1j" version="22.0.8" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1118" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="280" as="sourcePoint" />
+            <mxPoint x="525" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-27" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-28" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480.25" y="460" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="605" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-31" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-32" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/NAT.svg;" vertex="1" parent="1">
+          <mxGeometry x="557" y="712" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-34" value="Public Subnet&lt;br&gt;Met toegangvoor 5 hosts&lt;br&gt;84.25.195.201/29&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;84.25.195.1 - 84.25.195.6&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="90" y="800" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-36" value="Private subnet zonder internet&lt;br&gt;met toegang voor 15 hosts&lt;br&gt;84.25.195.201/27&lt;br&gt;84.25.195.1 - 84.25.195.30" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="800" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-38" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/switch.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/switch.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-40" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/switch.svg;" vertex="1" parent="1">
+          <mxGeometry x="505" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-43" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-30" value="NAT Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="415" y="704" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-23" value="Router&amp;nbsp;84.25.195.201/24" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-22" value="internet&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-44" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/NAT.svg;" vertex="1" parent="1">
+          <mxGeometry x="542" y="710" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-35" value="Private subnet&amp;nbsp;&amp;nbsp;&lt;br&gt;Met toegang voor 30 hosts&lt;br&gt;&lt;div style=&quot;&quot;&gt;84.25.195.201/26&lt;/div&gt;&lt;div style=&quot;&quot;&gt;84.25.195.1 - 84.25.195.62&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="420" y="805" width="200" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-46" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/switch.svg;" vertex="1" parent="1">
+          <mxGeometry x="495" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="780" as="sourcePoint" />
+            <mxPoint x="390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="470" as="sourcePoint" />
+            <mxPoint x="830" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z80Wqp7z03L0RaSXdFah-50" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/switch.svg;" vertex="1" parent="1">
+          <mxGeometry x="795" y="830" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
