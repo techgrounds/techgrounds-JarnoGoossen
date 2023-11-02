@@ -2,7 +2,18 @@
 [Geef een korte beschrijving van het onderwerp]
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- <strong>Subnet</strong> ->  A subnet refers to a smaller division or subdivision of a larger network. It helps organize and manage IP addresses within a network by creating smaller groups or subgroups.
+- <strong>Subnet Mask</strong> -> Reveals how many bits in the ip address are used for the network by "masking" the network portion of the IP address. 
+- <strong>Default Gateway</strong> -> A device (e.g. Router) that let's devices from one network, communicate with devices on another network. (In this context, "Default" means that the designated device is the first option that's looked upon when data needs to exit the network.)
+- <strong>CIDR</strong> -> Classless Inter-Domain Routing. An IP addressing model used to improve the allocation of IP addresses.
+- <strong>Host Address</strong> -> the last Octet of an IP-address e.g. 192.168.1.**128**
+- <strong>Network address (portion)</strong> -> The first three Octets of an IP-address e.g. **192.168.1**.0  
+- <strong>Host Address (portion)</strong> -> The last Octet of an IP-address e.g. 192.168.1.**128**
+
+- <strong>Network ID</strong> -> First IP-address in each Subnet.
+- <strong>Broadcast IP</strong> -> Last IP-address in each Subnet. It allows each Host to communicate to every other host within the subnet. So when a packet is send to the "Broadcast ID" every host receives that packet.
+
+
 
 ## Opdracht Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
 
