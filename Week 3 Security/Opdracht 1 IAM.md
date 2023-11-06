@@ -42,7 +42,7 @@ c. Attribute-based access control (ABAC): Access decisions are based on various 
 
 In summary, authentication verifies the identity of a user or system, while authorization controls what that authenticated entity can do or access. Both authentication and authorization are critical components of access control mechanisms and work together to ensure the security and integrity of systems and data.
 
-#### Authentication can be enhanced through the use of multiple factors, which provides an extra layer of security by requiring users to provide more than one type of authentication. The three common factors of authentication are:
+## Authentication can be enhanced through the use of multiple factors, which provides an extra layer of security by requiring users to provide more than one type of authentication. The three common factors of authentication are:
 
 - Something you know: 
 
