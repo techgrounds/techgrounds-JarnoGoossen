@@ -49,18 +49,24 @@ he rail fence cipher (sometimes called zigzag cipher) is a transposition cipher 
 
 The rail fence cipher works by writing your message on alternate lines across the page, and then reading off each line in turn.
 
+![rail](../00_includes/rail.png) 
+
 
 
 2. Find two digital ciphers that are being used today.
 
 3. Send a symmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. Try to think of a way to share this encryption key without revealing it to everyone. You are not allowed to use any private messages or other communication channels besides the public Slack channel. Analyse the shortcomings of symmetric encryption for sending messages.
 
+
 ### Gebruikte bronnen
 [rail fence](https://www.101computing.net/the-rail-fence-cipher/)
 
 [](https://www.secplicity.org/2017/05/25/historical-cryptography-ciphers/)
+
 [](https://www.vpngids.nl/veilig-internet/surfen/wat-is-encryptie/
-[](https://tresorit.com/blog/the-history-of-encryption-the-roots-of-modern-day-cyber-security/)(#:~:text=The%20first%20recorded%20instance%20of,to%20be%20sent%20and%20received.)
+
+[](https://tresorit.com/blog/the-history-of-encryption-the-roots-of-modern-day-cyber-security/)
+(#:~:text=The%20first%20recorded%20instance%20of,to%20be%20sent%20and%20received.)
 (https://www.encryptionconsulting.com/education-center/symmetric-vs-asymmetric-encryption/)
 
 ### Ervaren problemen
