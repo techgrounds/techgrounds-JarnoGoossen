@@ -60,8 +60,11 @@ An automatic failover to a backup web server has been configured for a website. 
 8 min
 
 ### Gebruikte bronnen
-1) https://www.n-able.com/blog/intrusion-detection-system
-1) https://www.vmware.com/topics/glossary/content/intrusion-prevention-system.html
+[IDS](https://www.n-able.com/blog/intrusion-detection-system)
+
+[IPS](https://www.vmware.com/topics/glossary/content/intrusion-prevention-system.html)
+
+[RPO&RTO](https://www.datto.com/nl/blog/het-belang-van-rpo-en-rto)
 
 
 ### Ervaren problemen
