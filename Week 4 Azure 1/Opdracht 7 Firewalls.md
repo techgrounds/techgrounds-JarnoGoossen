@@ -6,7 +6,12 @@
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+
+- [NSG](https://learn.microsoft.com/en-us/azure/virtual-network/manage-network-security-group?tabs=network-security-group-portal)
+- [firewall beleid](https://learn.microsoft.com/nl-nl/azure/firewall-manager/policy-overview)
+- [filters](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works)
+- [standard vs premium](https://learn.microsoft.com/en-us/azure/firewall/overview)
+
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
