@@ -1,5 +1,9 @@
 # [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+[Azure virtual networks (VNets) zorgen ervoor dat resources als VMs, web apps en databases kunnen communiceren met elkaar, met gebruikers op het internet en met machines die on-premises staan.
+
+VNets hebben de volgende verantwoordelijkheden:
+
+
 
 ## Key-terms
 [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
