@@ -1,10 +1,18 @@
-# [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# [Azure Load Balancer (ALB) & Auto Scaling]
+
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+
+- Autoscaling
+- spiky workload
+- VM Scale Set
+- Azure Monitor
+- load balancer
 
 ## Opdracht
+
+- Maak een Virtual Machine Scale Set met de volgende vereisten: Ubuntu Server 20.04 LTS - Gen1, Size: Standard_B1ls, Allowed inbound ports: SSH (22), HTTP (80), OS Disk type: Standard SSD, Networking: defaults, Boot diagnostics zijn niet nodig, Initial Instance Count: 2, Scaling Policy: Custom, Aantal VMs: minimaal 1 en maximaal 4, Voeg een VM toe bij 75% CPU gebruik, Verwijder een VM bij 30% CPU gebruik Custom data:
+
 ### Gebruikte bronnen
 [Plaats hier de bronnen die je hebt gebruikt.]
 
