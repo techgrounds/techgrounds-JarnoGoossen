@@ -35,6 +35,14 @@ Met Azure Monitor worden de beschikbaarheid en prestaties van toepassingen en se
 
 
 CosmosDB
+
+Azure Cosmos DB is een wereldwijd gedistribueerde databaseservice met meerdere modellen die wordt aangeboden door Microsoft. Het is ontworpen om hoge beschikbaarheid, schaalbaarheid en toegang met lage latentie tot gegevens voor bedrijfskritische applicaties te bieden.
+
+![user](../00_includes/db2.png) 
+
+![user](../00_includes/db.webp) 
+
+
 Azure Functions
 Event Grid, Queue Storage & Service Bus
 
